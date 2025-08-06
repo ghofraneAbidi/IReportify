@@ -1,0 +1,44 @@
+.frameworks-section {
+  padding: 80px 20px;
+  background-color: #fdfdfd;
+  text-align: center;
+}
+
+.frameworks-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.frameworks-subtitle {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: #000;
+}
+
+.frameworks-divider {
+  width: 60px;
+  margin: 10px auto 30px;
+  border: 1.5px solid #3f3f3f;
+}
+
+.frameworks-title {
+  font-size: 26px;
+  font-weight: 800;
+  color: #2a2a7f;
+  margin-bottom: 25px;
+  line-height: 1.5;
+}
+
+.frameworks-description {
+  font-size: 14px;
+  color: #333;
+  max-width: 750px;
+  margin: 0 auto 50px;
+  line-height: 1.7;
+}
+
+.frameworks-image {
+  max-width: 100%;
+  height: auto;
+}
